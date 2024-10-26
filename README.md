@@ -32,12 +32,13 @@ I also bring extensive experience in cloud infrastructure, particularly with Goo
 ### 🧰 Languages and Tools
 <div>
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px; margin-right:14px" src="./assets/images/icons8-python.gif" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./assets/images/icons8-java.gif"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="./assets/images/icons8-python.gif" />
 <img align="left" alt="FastApi" width="30px" style="padding-right:10px;" src="./assets/images/svg/fastapi.svg"/>
 <img align="left" alt="Pydantic" width="30px" style="padding-right:10px;" src="./assets/images/apple-touch-icon.png" />
 <img align="left" alt="Flask" width="90px" style="padding-right:10px;" src="./assets/images/flask-horizontal.png"/>
 
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./assets/images/icons8-java.gif"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <!-- <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> -->
 <!-- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> -->
 <!-- <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> -->
@@ -45,7 +46,6 @@ I also bring extensive experience in cloud infrastructure, particularly with Goo
 <!-- <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> -->
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="./assets/images/icons8-mongodb-48.png" />
 <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="./assets/images/svg/postgresql.svg" />
