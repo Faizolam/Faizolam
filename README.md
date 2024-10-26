@@ -26,6 +26,7 @@ I also bring extensive experience in cloud infrastructure, particularly with Goo
 🗄️ Database Management: -->
 
 ### 🧰 Languages and Tools
+<div>
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="./assets/images/icons8-python.gif" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./assets/images/icons8-java.gif"/>
@@ -60,6 +61,7 @@ I also bring extensive experience in cloud infrastructure, particularly with Goo
 <img align="left" alt="GitHubAction" width="30px" style="padding-right:10px;" src="./assets/images/svg/GitHub Actions.svg" />
 <img align="left" alt="OpenAI" width="30px" style="padding-right:10px;" src="./assets/images/svg/openai-2.svg" />
 <img align="left" alt="OpenAPI" width="30px" style="padding-right:10px;" src="./assets/images/svg/openapi-1.svg" />
+</div>
 
 
 <br />
