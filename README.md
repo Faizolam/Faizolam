@@ -3,7 +3,7 @@
 </div>
 
 <!-- 🏄‍♂️ **Faizolam/Faizolam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> ***Hi there***<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+## <picture><img src = "./assets/mdImages/about_me.gif" width = 60px></picture> ***Hi there***<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 <picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 200px></picture>
 
