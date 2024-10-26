@@ -32,7 +32,7 @@ I also bring extensive experience in cloud infrastructure, particularly with Goo
 ### 🧰 Languages and Tools
 <div>
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="./assets/images/icons8-python.gif" />
+<img align="left" alt="Python" width="30px" style="padding-right:12px;" src="./assets/images/icons8-python.gif" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./assets/images/icons8-java.gif"/>
 <img align="left" alt="FastApi" width="30px" style="padding-right:10px;" src="./assets/images/svg/fastapi.svg"/>
 <img align="left" alt="Pydantic" width="30px" style="padding-right:10px;" src="./assets/images/apple-touch-icon.png" />
