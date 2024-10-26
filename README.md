@@ -11,7 +11,7 @@
 <br>
 <p><i>I'm a passionate Software Engineer dedicated to building efficient, scalable, and robust software solutions. With a strong foundation in backend development and additional experience in frontend, I thrive as a full-stack developer, creating seamless, end-to-end applications that deliver meaningful value to clients.
 
-I also bring extensive experience in cloud infrastructure, particularly with Google Cloud Platform (GCP) and Terraform for infrastructure as code. My focus includes building automated CI/CD pipelines that streamline workflows for reliable, consistent, and efficient deployments. Leveraging serverless architecture, I aim to create solutions that are both cost-effective and highly scalable.</i></p>
+I also bring extensive experience in cloud infrastructure, with Google Cloud Platform (GCP), Amazon Web Services(AWS) and Terraform for infrastructure as code. My focus includes building automated CI/CD pipelines that streamline workflows for reliable, consistent, and efficient deployments. Leveraging serverless architecture, I aim to create solutions that are both cost-effective and highly scalable.</i></p>
 
 <!-- 🛠 My Toolkit:
 
