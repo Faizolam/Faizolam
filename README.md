@@ -15,9 +15,13 @@ I also bring extensive experience in cloud infrastructure, particularly with Goo
 
 <!-- 🛠 My Toolkit:
 
-🔙 Backend Engineering:
+### 🔙 Backend Engineering:
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="./assets/images/icons8-python.gif" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="./assets/images/icons8-java.gif"/>
+<img align="left" alt="FastApi" width="30px" style="padding-right:10px;" src="./assets/images/svg/fastapi.svg"/>
+<br>
 
-🎨 Frontend Development:
+### 🎨 Frontend Development:
 
 ☁️ Cloud & DevOps:
 
@@ -51,6 +55,9 @@ I also bring extensive experience in cloud infrastructure, particularly with Goo
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <!-- <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br>
+
+#
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <!-- <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /> -->
 <img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="./assets/images/icons8-google-cloud-48.png" />
@@ -68,6 +75,19 @@ I also bring extensive experience in cloud infrastructure, particularly with Goo
 
 #
 <br>
+<br>
+
+### <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
+
+<a href="https://linkedin.com/in/faizaalam" target="_blank">
+<img src="./assets/images/svg/linkedin-icon-3.svg" alt=linkedin width="30px" style="padding-right:10px;"/>
+</a>
+<a href="https://x.com/FaizOlam" target="_blank">
+<img src="./assets/images/svg/twitter-logo-2.svg" alt=twitter width="30px" style="padding-right:10px;"/>
+</a>
+<a href="https://www.instagram.com/faizolam/" target="_blank">
+<img src="./assets/images/svg/instagram-2016-5.svg" alt=linkedin width="30px" style="padding-right:10px;"/>
+</a>
 
 <!-- ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="left">
