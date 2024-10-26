@@ -71,11 +71,9 @@ I also bring extensive experience in cloud infrastructure, with Google Cloud Pla
 <img align="left" alt="OpenAPI" width="30px" style="padding-right:10px;" src="./assets/images/svg/openapi-1.svg" />
 </div>
 
-
 <br />
 
 #
-<br>
 <br>
 
 ### <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
