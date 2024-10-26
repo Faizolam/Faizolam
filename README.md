@@ -60,6 +60,7 @@ I also bring extensive experience in cloud infrastructure, with Google Cloud Pla
 #
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <!-- <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /> -->
+<img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="./assets/images/svg/icons8-terraform.svg" />
 <img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="./assets/images/icons8-google-cloud-48.png" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="./assets/images/svg/aws-2.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="./assets/images/svg/docker-4.svg" />
