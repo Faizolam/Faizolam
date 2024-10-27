@@ -47,7 +47,8 @@ I also bring extensive experience in cloud infrastructure, with Google Cloud Pla
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="./assets/images/icons8-mongodb-48.png" />
+<!-- <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="./assets/images/icons8-mongodb-48.png" /> -->
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://tpc.googlesyndication.com/simgad/4436531007689996523?sqp=-oaymwEKCCAQICABUAFYAQ&rs=AOga4qmz1SKs9cCXMSLALyE-wzbLrvRjyQ"/>
 <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="./assets/images/svg/postgresql.svg" />
 <img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="./assets/images/svg/mysql-logo-pure.svg" />
 <img align="left" alt="MsSQL" width="30px" style="padding-right:10px;" src="./assets/images/icons8-microsoft-sql-server-48.png" />
