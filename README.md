@@ -36,7 +36,8 @@ I also bring extensive experience in cloud infrastructure, with Google Cloud Pla
 <img align="left" alt="Java" width="30px" style="border-radius: 50%; margin-right:14px" src="./assets/images/icons8-java.gif"/>
 <img align="left" alt="FastApi" width="30px" style="padding-right:10px;" src="./assets/images/svg/fastapi.svg"/>
 <img align="left" alt="Pydantic" width="30px" style="padding-right:10px;" src="./assets/images/apple-touch-icon.png" />
-<img align="left" alt="Flask" width="90px" style="padding-right:10px;" src="./assets/images/flask-horizontal.png"/>
+<img align="left" alt="Pydantic" width="30px" style="padding-right:10px;" src="./assets/images/svg/django.svg" />
+<img align="left" alt="Flask" width="80px" style="padding-right:10px;" src="./assets/images/flask-horizontal.png"/>
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <!-- <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> -->
@@ -69,6 +70,7 @@ I also bring extensive experience in cloud infrastructure, with Google Cloud Pla
 <img align="left" alt="Kubernets" width="30px" style="padding-right:10px;" src="./assets/images/svg/kubernets.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="./assets/images/svg/github-icon-1.svg" />
 <img align="left" alt="GitHubAction" width="30px" style="padding-right:10px;" src="./assets/images/svg/GitHub Actions.svg" />
+<img align="left" alt="GitHubAction" width="30px" style="padding-right:10px;" src="./assets/images/svg/GitLab.svg" />
 <img align="left" alt="OpenAI" width="30px" style="padding-right:10px;" src="./assets/images/svg/openai-2.svg" />
 <img align="left" alt="OpenAPI" width="30px" style="padding-right:10px;" src="./assets/images/svg/openapi-1.svg" />
 </div>
@@ -90,6 +92,15 @@ I also bring extensive experience in cloud infrastructure, with Google Cloud Pla
 <img src="./assets/images/svg/instagram-2016-5.svg" alt=linkedin width="30px" style="padding-right:10px;"/>
 </a>
 
+<br>
+
+#
+
+<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
+<!-- def diet():
+    return "I only eat 'bytes'!" -->
+
+<!-- git commit -m "Fixed all the bugs... hopefully!" # Just kidding, there are always more! -->
 <!-- ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="left">
 <a href="https://github.com/Faizolam/">
